@@ -1,0 +1,4 @@
+Storing Integers in character array
+Using Base 10
+stored in reverse list due to 10^nth value, eg 1st in list [1,2,3,4] -> [4,3,2,1]
+4 is 10^0, 3 is 10^1 and on and on

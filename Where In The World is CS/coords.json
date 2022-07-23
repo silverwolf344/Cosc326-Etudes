@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+ "features": [
+{"type": "Feature",
+"properties": {
+"name": "{OWHEOONE }"
+}
+,
+"geometry": {
+"type": "Point",
+"coordinates": [
+170.517806,
+-45.867111]
+}
+}
+,{"type": "Feature",
+"properties": {
+"name": "{OWHEOTWO }"
+}
+,
+"geometry": {
+"type": "Point",
+"coordinates": [
+170.517806,
+-45.867111]
+}
+}
+,{"type": "Feature",
+"properties": {
+"name": "{OWHEOTHREE }"
+}
+,
+"geometry": {
+"type": "Point",
+"coordinates": [
+170.517806,
+-45.8671]
+}
+}
+]
+}

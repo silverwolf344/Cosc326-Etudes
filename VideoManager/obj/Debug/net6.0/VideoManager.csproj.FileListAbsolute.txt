@@ -1,0 +1,15 @@
+C:\Users\Cam\Documents\COSC326\VideoManager\bin\Debug\net6.0\VideoManager.exe
+C:\Users\Cam\Documents\COSC326\VideoManager\bin\Debug\net6.0\VideoManager.deps.json
+C:\Users\Cam\Documents\COSC326\VideoManager\bin\Debug\net6.0\VideoManager.runtimeconfig.json
+C:\Users\Cam\Documents\COSC326\VideoManager\bin\Debug\net6.0\VideoManager.dll
+C:\Users\Cam\Documents\COSC326\VideoManager\bin\Debug\net6.0\VideoManager.pdb
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.csproj.AssemblyReference.cache
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.AssemblyInfoInputs.cache
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.AssemblyInfo.cs
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.csproj.CoreCompileInputs.cache
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.dll
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\refint\VideoManager.dll
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.pdb
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\VideoManager.genruntimeconfig.cache
+C:\Users\Cam\Documents\COSC326\VideoManager\obj\Debug\net6.0\ref\VideoManager.dll

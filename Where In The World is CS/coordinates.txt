@@ -1,0 +1,15 @@
+45.855 South 170.502319 E Dunedin
+34.034 118.2788 W Los Angeles
+12 21 TEST
+1 1
+29.77 N -95.372 Houston
+23.6999 W, 50.5556 This is also a Label
+40° 26.767' N 79° 58.933' W Northern California
+40 26.767  -79 58.933  W Northern California No Lat Label
+40 26.767  -79 58.933   Northern California No Markers
+40° 26′ 46″ N 79° 58′ 56″ W
+40 26 46 N 79 58 56 W No Symbols
+40° 26′ 46″  -79° 58′ 56″ W No Lat Label
+40° 26′ 46″  -79° 58′ 56″ No Markers
+Ha Tricked You!
+40° 26′ 46″ 

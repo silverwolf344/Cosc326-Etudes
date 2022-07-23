@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ReadBinaryFile",
+            "request": "launch",
+            "mainClass": "ReadBinaryFile",
+            "projectName": "COSC326_44517705"
+        },
+        {
+            "type": "java",
+            "name": "Launch IbmTo754",
+            "request": "launch",
+            "mainClass": "IbmTo754",
+            "projectName": "COSC326_44517705"
+        }
+    ]
+}
